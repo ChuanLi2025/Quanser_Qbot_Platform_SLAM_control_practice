@@ -1,6 +1,3 @@
-# Trash-Delivery-Qbot
-github repository for Dr Kubota's ENGR 857 Final Project, authored by: Anthony Delacruz, Chuan Li, Lorenz Falcioni
-
 ## OpenRouter camera descriptions
 
 Build and source the ROS 2 workspace, then export your OpenRouter key:
